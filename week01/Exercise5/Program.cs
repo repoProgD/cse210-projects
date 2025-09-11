@@ -40,4 +40,5 @@ class Program
         Console.WriteLine($"Hi {name}, the square number is {squaredNumber}");
     }
 
+
 }
